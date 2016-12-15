@@ -1,0 +1,1164 @@
+fileFormatVersion: 2
+guid: 55591d721fb264947868ed76839ee052
+timeCreated: 1481640648
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: bird002
+    100002: bird01
+    100004: birdPath
+    100006: birdPath001
+    100008: Box
+    100010: Box0
+    100012: Box00
+    100014: Box001
+    100016: Box002
+    100018: Box004
+    100020: Box005
+    100022: Box010
+    100024: Box030
+    100026: Box031
+    100028: Box038
+    100030: Box044
+    100032: Box054
+    100034: Box09
+    100036: Box100
+    100038: Box101
+    100040: Box102
+    100042: Box103
+    100044: Box104
+    100046: Box105
+    100048: Box106
+    100050: Box107
+    100052: Box108
+    100054: Box109
+    100056: Box110
+    100058: Box111
+    100060: Box112
+    100062: Box113
+    100064: Box114
+    100066: Box115
+    100068: Box116
+    100070: Box117
+    100072: Box118
+    100074: Box119
+    100076: Box120
+    100078: Box121
+    100080: Box122
+    100082: Box123
+    100084: Box124
+    100086: Box125
+    100088: Box126
+    100090: Box127
+    100092: Box128
+    100094: Box129
+    100096: castel
+    100098: castel 1
+    100100: castelIsland
+    100102: Circle001
+    100104: Circle002
+    100106: Circle003
+    100108: Circle004
+    100110: Circle005
+    100112: Circle006
+    100114: Cloud002
+    100116: Cloud003
+    100118: cloud003
+    100120: cloud004
+    100122: Cloud1
+    100124: cloud2
+    100126: Cone001
+    100128: Cone002
+    100130: Cone002 1
+    100132: Cone003
+    100134: Cone005
+    100136: Cone006
+    100138: Cone009
+    100140: Cylinde
+    100142: Cylinder
+    100144: Cylinder00
+    100146: Cylinder001
+    100148: Cylinder002
+    100150: Cylinder003
+    100152: Cylinder004
+    100154: Cylinder005
+    100156: Cylinder006
+    100158: Cylinder007
+    100160: Cylinder008
+    100162: Cylinder011
+    100164: Cylinder012
+    100166: Cylinder013
+    100168: Cylinder014
+    100170: Cylinder015
+    100172: Cylinder016
+    100174: Cylinder017
+    100176: Cylinder018
+    100178: Cylinder019
+    100180: Cylinder020
+    100182: Cylinder021
+    100184: Cylinder022
+    100186: Cylinder023
+    100188: Cylinder024
+    100190: Cylinder025
+    100192: Cylinder026
+    100194: Cylinder027
+    100196: Cylinder028
+    100198: Cylinder029
+    100200: Cylinder030
+    100202: Cylinder031
+    100204: Cylinder032
+    100206: Cylinder033
+    100208: Cylinder034
+    100210: Cylinder035
+    100212: Cylinder036
+    100214: Cylinder037
+    100216: Cylinder038
+    100218: Cylinder039
+    100220: Cylinder040
+    100222: GeoSphere005
+    100224: GeoSphere006
+    100226: GeoSphere007
+    100228: GeoSphere008
+    100230: GeoSphere010
+    100232: GeoSphere011
+    100234: GeoSphere012
+    100236: GeoSphere013
+    100238: GeoSphere014
+    100240: GeoSphere016
+    100242: Line001
+    100244: OilTan
+    100246: OilTank001
+    100248: Pyramid004
+    100250: //RootNode
+    100252: Stairs
+    100254: Stairs001
+    100256: Stairs002
+    100258: Stairs003
+    100260: Stairs004
+    100262: Stairs005
+    100264: Stairs006
+    100266: Stairs007
+    100268: Stairs008
+    100270: Stairs009
+    100272: Stairs010
+    100274: Stairs011
+    100276: Stairs012
+    100278: Stairs013
+    100280: Stairs014
+    100282: Stairs015
+    100284: Stairs016
+    100286: Stairs017
+    100288: Stairs018
+    100290: Stairs019
+    100292: Torus001
+    100294: Torus002
+    100296: Torus003
+    100298: Torus004
+    100300: TowerCorner
+    100302: TowerCorner001
+    100304: TowerCorner003
+    100306: TowerCorner004
+    100308: TowerCorner005
+    100310: TowerCorner006
+    100312: TowerCorner007
+    400000: bird002
+    400002: bird01
+    400004: birdPath
+    400006: birdPath001
+    400008: Box
+    400010: Box0
+    400012: Box00
+    400014: Box001
+    400016: Box002
+    400018: Box004
+    400020: Box005
+    400022: Box010
+    400024: Box030
+    400026: Box031
+    400028: Box038
+    400030: Box044
+    400032: Box054
+    400034: Box09
+    400036: Box100
+    400038: Box101
+    400040: Box102
+    400042: Box103
+    400044: Box104
+    400046: Box105
+    400048: Box106
+    400050: Box107
+    400052: Box108
+    400054: Box109
+    400056: Box110
+    400058: Box111
+    400060: Box112
+    400062: Box113
+    400064: Box114
+    400066: Box115
+    400068: Box116
+    400070: Box117
+    400072: Box118
+    400074: Box119
+    400076: Box120
+    400078: Box121
+    400080: Box122
+    400082: Box123
+    400084: Box124
+    400086: Box125
+    400088: Box126
+    400090: Box127
+    400092: Box128
+    400094: Box129
+    400096: castel
+    400098: castel 1
+    400100: castelIsland
+    400102: Circle001
+    400104: Circle002
+    400106: Circle003
+    400108: Circle004
+    400110: Circle005
+    400112: Circle006
+    400114: Cloud002
+    400116: Cloud003
+    400118: cloud003
+    400120: cloud004
+    400122: Cloud1
+    400124: cloud2
+    400126: Cone001
+    400128: Cone002
+    400130: Cone002 1
+    400132: Cone003
+    400134: Cone005
+    400136: Cone006
+    400138: Cone009
+    400140: Cylinde
+    400142: Cylinder
+    400144: Cylinder00
+    400146: Cylinder001
+    400148: Cylinder002
+    400150: Cylinder003
+    400152: Cylinder004
+    400154: Cylinder005
+    400156: Cylinder006
+    400158: Cylinder007
+    400160: Cylinder008
+    400162: Cylinder011
+    400164: Cylinder012
+    400166: Cylinder013
+    400168: Cylinder014
+    400170: Cylinder015
+    400172: Cylinder016
+    400174: Cylinder017
+    400176: Cylinder018
+    400178: Cylinder019
+    400180: Cylinder020
+    400182: Cylinder021
+    400184: Cylinder022
+    400186: Cylinder023
+    400188: Cylinder024
+    400190: Cylinder025
+    400192: Cylinder026
+    400194: Cylinder027
+    400196: Cylinder028
+    400198: Cylinder029
+    400200: Cylinder030
+    400202: Cylinder031
+    400204: Cylinder032
+    400206: Cylinder033
+    400208: Cylinder034
+    400210: Cylinder035
+    400212: Cylinder036
+    400214: Cylinder037
+    400216: Cylinder038
+    400218: Cylinder039
+    400220: Cylinder040
+    400222: GeoSphere005
+    400224: GeoSphere006
+    400226: GeoSphere007
+    400228: GeoSphere008
+    400230: GeoSphere010
+    400232: GeoSphere011
+    400234: GeoSphere012
+    400236: GeoSphere013
+    400238: GeoSphere014
+    400240: GeoSphere016
+    400242: Line001
+    400244: OilTan
+    400246: OilTank001
+    400248: Pyramid004
+    400250: //RootNode
+    400252: Stairs
+    400254: Stairs001
+    400256: Stairs002
+    400258: Stairs003
+    400260: Stairs004
+    400262: Stairs005
+    400264: Stairs006
+    400266: Stairs007
+    400268: Stairs008
+    400270: Stairs009
+    400272: Stairs010
+    400274: Stairs011
+    400276: Stairs012
+    400278: Stairs013
+    400280: Stairs014
+    400282: Stairs015
+    400284: Stairs016
+    400286: Stairs017
+    400288: Stairs018
+    400290: Stairs019
+    400292: Torus001
+    400294: Torus002
+    400296: Torus003
+    400298: Torus004
+    400300: TowerCorner
+    400302: TowerCorner001
+    400304: TowerCorner003
+    400306: TowerCorner004
+    400308: TowerCorner005
+    400310: TowerCorner006
+    400312: TowerCorner007
+    2300000: bird002
+    2300002: bird01
+    2300004: Box
+    2300006: Box0
+    2300008: Box00
+    2300010: Box001
+    2300012: Box002
+    2300014: Box004
+    2300016: Box005
+    2300018: Box010
+    2300020: Box030
+    2300022: Box031
+    2300024: Box038
+    2300026: Box044
+    2300028: Box054
+    2300030: Box09
+    2300032: Box100
+    2300034: Box101
+    2300036: Box102
+    2300038: Box103
+    2300040: Box104
+    2300042: Box105
+    2300044: Box106
+    2300046: Box107
+    2300048: Box108
+    2300050: Box109
+    2300052: Box110
+    2300054: Box111
+    2300056: Box112
+    2300058: Box113
+    2300060: Box114
+    2300062: Box115
+    2300064: Box116
+    2300066: Box117
+    2300068: Box118
+    2300070: Box119
+    2300072: Box120
+    2300074: Box121
+    2300076: Box122
+    2300078: Box123
+    2300080: Box124
+    2300082: Box125
+    2300084: Box126
+    2300086: Box127
+    2300088: Box128
+    2300090: Box129
+    2300092: castelIsland
+    2300094: Cloud002
+    2300096: Cloud003
+    2300098: cloud003
+    2300100: cloud004
+    2300102: Cloud1
+    2300104: cloud2
+    2300106: Cone001
+    2300108: Cone002
+    2300110: Cone002 1
+    2300112: Cone003
+    2300114: Cone005
+    2300116: Cone006
+    2300118: Cone009
+    2300120: Cylinde
+    2300122: Cylinder
+    2300124: Cylinder00
+    2300126: Cylinder001
+    2300128: Cylinder002
+    2300130: Cylinder003
+    2300132: Cylinder004
+    2300134: Cylinder005
+    2300136: Cylinder006
+    2300138: Cylinder007
+    2300140: Cylinder008
+    2300142: Cylinder011
+    2300144: Cylinder012
+    2300146: Cylinder013
+    2300148: Cylinder014
+    2300150: Cylinder015
+    2300152: Cylinder016
+    2300154: Cylinder017
+    2300156: Cylinder018
+    2300158: Cylinder019
+    2300160: Cylinder020
+    2300162: Cylinder021
+    2300164: Cylinder022
+    2300166: Cylinder023
+    2300168: Cylinder024
+    2300170: Cylinder025
+    2300172: Cylinder026
+    2300174: Cylinder027
+    2300176: Cylinder028
+    2300178: Cylinder029
+    2300180: Cylinder030
+    2300182: Cylinder031
+    2300184: Cylinder032
+    2300186: Cylinder033
+    2300188: Cylinder034
+    2300190: Cylinder035
+    2300192: Cylinder036
+    2300194: Cylinder037
+    2300196: Cylinder038
+    2300198: Cylinder039
+    2300200: Cylinder040
+    2300202: GeoSphere005
+    2300204: GeoSphere006
+    2300206: GeoSphere007
+    2300208: GeoSphere008
+    2300210: GeoSphere010
+    2300212: GeoSphere011
+    2300214: GeoSphere012
+    2300216: GeoSphere013
+    2300218: GeoSphere014
+    2300220: GeoSphere016
+    2300222: OilTan
+    2300224: OilTank001
+    2300226: Pyramid004
+    2300228: Stairs
+    2300230: Stairs001
+    2300232: Stairs002
+    2300234: Stairs003
+    2300236: Stairs004
+    2300238: Stairs005
+    2300240: Stairs006
+    2300242: Stairs007
+    2300244: Stairs008
+    2300246: Stairs009
+    2300248: Stairs010
+    2300250: Stairs011
+    2300252: Stairs012
+    2300254: Stairs013
+    2300256: Stairs014
+    2300258: Stairs015
+    2300260: Stairs016
+    2300262: Stairs017
+    2300264: Stairs018
+    2300266: Stairs019
+    2300268: Torus001
+    2300270: Torus002
+    2300272: Torus003
+    2300274: Torus004
+    2300276: TowerCorner
+    2300278: TowerCorner001
+    2300280: TowerCorner003
+    2300282: TowerCorner004
+    2300284: TowerCorner005
+    2300286: TowerCorner006
+    2300288: TowerCorner007
+    3300000: bird002
+    3300002: bird01
+    3300004: Box
+    3300006: Box0
+    3300008: Box00
+    3300010: Box001
+    3300012: Box002
+    3300014: Box004
+    3300016: Box005
+    3300018: Box010
+    3300020: Box030
+    3300022: Box031
+    3300024: Box038
+    3300026: Box044
+    3300028: Box054
+    3300030: Box09
+    3300032: Box100
+    3300034: Box101
+    3300036: Box102
+    3300038: Box103
+    3300040: Box104
+    3300042: Box105
+    3300044: Box106
+    3300046: Box107
+    3300048: Box108
+    3300050: Box109
+    3300052: Box110
+    3300054: Box111
+    3300056: Box112
+    3300058: Box113
+    3300060: Box114
+    3300062: Box115
+    3300064: Box116
+    3300066: Box117
+    3300068: Box118
+    3300070: Box119
+    3300072: Box120
+    3300074: Box121
+    3300076: Box122
+    3300078: Box123
+    3300080: Box124
+    3300082: Box125
+    3300084: Box126
+    3300086: Box127
+    3300088: Box128
+    3300090: Box129
+    3300092: castelIsland
+    3300094: Cloud002
+    3300096: Cloud003
+    3300098: cloud003
+    3300100: cloud004
+    3300102: Cloud1
+    3300104: cloud2
+    3300106: Cone001
+    3300108: Cone002
+    3300110: Cone002 1
+    3300112: Cone003
+    3300114: Cone005
+    3300116: Cone006
+    3300118: Cone009
+    3300120: Cylinde
+    3300122: Cylinder
+    3300124: Cylinder00
+    3300126: Cylinder001
+    3300128: Cylinder002
+    3300130: Cylinder003
+    3300132: Cylinder004
+    3300134: Cylinder005
+    3300136: Cylinder006
+    3300138: Cylinder007
+    3300140: Cylinder008
+    3300142: Cylinder011
+    3300144: Cylinder012
+    3300146: Cylinder013
+    3300148: Cylinder014
+    3300150: Cylinder015
+    3300152: Cylinder016
+    3300154: Cylinder017
+    3300156: Cylinder018
+    3300158: Cylinder019
+    3300160: Cylinder020
+    3300162: Cylinder021
+    3300164: Cylinder022
+    3300166: Cylinder023
+    3300168: Cylinder024
+    3300170: Cylinder025
+    3300172: Cylinder026
+    3300174: Cylinder027
+    3300176: Cylinder028
+    3300178: Cylinder029
+    3300180: Cylinder030
+    3300182: Cylinder031
+    3300184: Cylinder032
+    3300186: Cylinder033
+    3300188: Cylinder034
+    3300190: Cylinder035
+    3300192: Cylinder036
+    3300194: Cylinder037
+    3300196: Cylinder038
+    3300198: Cylinder039
+    3300200: Cylinder040
+    3300202: GeoSphere005
+    3300204: GeoSphere006
+    3300206: GeoSphere007
+    3300208: GeoSphere008
+    3300210: GeoSphere010
+    3300212: GeoSphere011
+    3300214: GeoSphere012
+    3300216: GeoSphere013
+    3300218: GeoSphere014
+    3300220: GeoSphere016
+    3300222: OilTan
+    3300224: OilTank001
+    3300226: Pyramid004
+    3300228: Stairs
+    3300230: Stairs001
+    3300232: Stairs002
+    3300234: Stairs003
+    3300236: Stairs004
+    3300238: Stairs005
+    3300240: Stairs006
+    3300242: Stairs007
+    3300244: Stairs008
+    3300246: Stairs009
+    3300248: Stairs010
+    3300250: Stairs011
+    3300252: Stairs012
+    3300254: Stairs013
+    3300256: Stairs014
+    3300258: Stairs015
+    3300260: Stairs016
+    3300262: Stairs017
+    3300264: Stairs018
+    3300266: Stairs019
+    3300268: Torus001
+    3300270: Torus002
+    3300272: Torus003
+    3300274: Torus004
+    3300276: TowerCorner
+    3300278: TowerCorner001
+    3300280: TowerCorner003
+    3300282: TowerCorner004
+    3300284: TowerCorner005
+    3300286: TowerCorner006
+    3300288: TowerCorner007
+    4300000: Pyramid004
+    4300002: Cone001
+    4300004: Cone002
+    4300006: Cloud1
+    4300008: cloud2
+    4300010: Cloud002
+    4300012: cloud003
+    4300014: Cloud003
+    4300016: cloud004
+    4300018: GeoSphere005
+    4300020: GeoSphere006
+    4300022: GeoSphere007
+    4300024: GeoSphere008
+    4300026: GeoSphere010
+    4300028: GeoSphere011
+    4300030: GeoSphere012
+    4300032: GeoSphere013
+    4300034: GeoSphere014
+    4300036: Torus001
+    4300038: Torus002
+    4300040: Torus003
+    4300042: Torus004
+    4300044: GeoSphere016
+    4300046: castelIsland
+    4300048: Cylinder017
+    4300050: Cylinder002
+    4300052: Cylinder015
+    4300054: Cylinder013
+    4300056: Cylinder012
+    4300058: Cone009
+    4300060: Cone002
+    4300062: Cylinder007
+    4300064: Cylinder006
+    4300066: Cone003
+    4300068: Cone005
+    4300070: Cone006
+    4300072: Cylinder016
+    4300074: TowerCorner
+    4300076: Cylinder00
+    4300078: Box00
+    4300080: Box0
+    4300082: Box09
+    4300084: Box010
+    4300086: Box002
+    4300088: Box005
+    4300090: Box
+    4300092: Cylinder
+    4300094: OilTan
+    4300096: Cylinde
+    4300098: Box030
+    4300100: OilTank001
+    4300102: Cylinder008
+    4300104: Box031
+    4300106: Box004
+    4300108: Cylinder011
+    4300110: Cylinder004
+    4300112: Cylinder003
+    4300114: Cylinder014
+    4300116: Box001
+    4300118: TowerCorner001
+    4300120: Box038
+    4300122: Cylinder005
+    4300124: Cylinder001
+    4300126: Stairs
+    4300128: Stairs001
+    4300130: Box044
+    4300132: Box054
+    4300134: Cylinder018
+    4300136: Cylinder019
+    4300138: Cylinder020
+    4300140: TowerCorner003
+    4300142: Stairs002
+    4300144: Stairs003
+    4300146: Cylinder021
+    4300148: Box100
+    4300150: Cylinder022
+    4300152: TowerCorner004
+    4300154: Box101
+    4300156: Box102
+    4300158: Stairs004
+    4300160: Stairs005
+    4300162: Cylinder023
+    4300164: Cylinder024
+    4300166: Cylinder025
+    4300168: Box103
+    4300170: Box104
+    4300172: Cylinder026
+    4300174: Box105
+    4300176: TowerCorner005
+    4300178: Box106
+    4300180: Stairs006
+    4300182: Box107
+    4300184: Stairs007
+    4300186: Box108
+    4300188: Box109
+    4300190: Cylinder027
+    4300192: Box110
+    4300194: Cylinder028
+    4300196: Box111
+    4300198: Cylinder029
+    4300200: Box112
+    4300202: Cylinder030
+    4300204: TowerCorner006
+    4300206: Stairs008
+    4300208: Stairs009
+    4300210: Cylinder031
+    4300212: Box113
+    4300214: Box114
+    4300216: TowerCorner007
+    4300218: Box115
+    4300220: Box116
+    4300222: Stairs010
+    4300224: Stairs011
+    4300226: Cylinder032
+    4300228: Stairs012
+    4300230: Stairs013
+    4300232: Box117
+    4300234: Box118
+    4300236: Stairs014
+    4300238: Cylinder033
+    4300240: Stairs015
+    4300242: Box119
+    4300244: Box120
+    4300246: Cylinder034
+    4300248: Box121
+    4300250: Cylinder035
+    4300252: Cylinder036
+    4300254: Box122
+    4300256: Box123
+    4300258: Box124
+    4300260: Box125
+    4300262: Stairs016
+    4300264: Cylinder037
+    4300266: Box126
+    4300268: Stairs017
+    4300270: Box127
+    4300272: Cylinder038
+    4300274: Box128
+    4300276: Stairs018
+    4300278: Box129
+    4300280: Cylinder039
+    4300282: Stairs019
+    4300284: Cylinder040
+    4300286: bird01
+    4300288: bird002
+    7400000: skyMotion
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: skyMotion
+      takeName: skyMotion
+      firstFrame: 0
+      lastFrame: 200
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: bird01
+        weight: 1
+      - path: bird002
+        weight: 1
+      - path: birdPath
+        weight: 1
+      - path: birdPath001
+        weight: 1
+      - path: castel
+        weight: 1
+      - path: castel/castel 1
+        weight: 1
+      - path: castel/castel 1/Box
+        weight: 1
+      - path: castel/castel 1/Box00
+        weight: 1
+      - path: castel/castel 1/Box0
+        weight: 1
+      - path: castel/castel 1/Box001
+        weight: 1
+      - path: castel/castel 1/Box002
+        weight: 1
+      - path: castel/castel 1/Box004
+        weight: 1
+      - path: castel/castel 1/Box005
+        weight: 1
+      - path: castel/castel 1/Box09
+        weight: 1
+      - path: castel/castel 1/Box010
+        weight: 1
+      - path: castel/castel 1/Box030
+        weight: 1
+      - path: castel/castel 1/Box031
+        weight: 1
+      - path: castel/castel 1/Box038
+        weight: 1
+      - path: castel/castel 1/Box044
+        weight: 1
+      - path: castel/castel 1/Box054
+        weight: 1
+      - path: castel/castel 1/Box100
+        weight: 1
+      - path: castel/castel 1/Box101
+        weight: 1
+      - path: castel/castel 1/Box102
+        weight: 1
+      - path: castel/castel 1/Box103
+        weight: 1
+      - path: castel/castel 1/Box104
+        weight: 1
+      - path: castel/castel 1/Box105
+        weight: 1
+      - path: castel/castel 1/Box106
+        weight: 1
+      - path: castel/castel 1/Box107
+        weight: 1
+      - path: castel/castel 1/Box108
+        weight: 1
+      - path: castel/castel 1/Box109
+        weight: 1
+      - path: castel/castel 1/Box110
+        weight: 1
+      - path: castel/castel 1/Box111
+        weight: 1
+      - path: castel/castel 1/Box112
+        weight: 1
+      - path: castel/castel 1/Box113
+        weight: 1
+      - path: castel/castel 1/Box114
+        weight: 1
+      - path: castel/castel 1/Box115
+        weight: 1
+      - path: castel/castel 1/Box116
+        weight: 1
+      - path: castel/castel 1/Box117
+        weight: 1
+      - path: castel/castel 1/Box118
+        weight: 1
+      - path: castel/castel 1/Box119
+        weight: 1
+      - path: castel/castel 1/Box120
+        weight: 1
+      - path: castel/castel 1/Box121
+        weight: 1
+      - path: castel/castel 1/Box122
+        weight: 1
+      - path: castel/castel 1/Box123
+        weight: 1
+      - path: castel/castel 1/Box124
+        weight: 1
+      - path: castel/castel 1/Box125
+        weight: 1
+      - path: castel/castel 1/Box126
+        weight: 1
+      - path: castel/castel 1/Box127
+        weight: 1
+      - path: castel/castel 1/Box128
+        weight: 1
+      - path: castel/castel 1/Box129
+        weight: 1
+      - path: castel/castel 1/Cone002 1
+        weight: 1
+      - path: castel/castel 1/Cone003
+        weight: 1
+      - path: castel/castel 1/Cone005
+        weight: 1
+      - path: castel/castel 1/Cone006
+        weight: 1
+      - path: castel/castel 1/Cone009
+        weight: 1
+      - path: castel/castel 1/Cylinde
+        weight: 1
+      - path: castel/castel 1/Cylinder
+        weight: 1
+      - path: castel/castel 1/Cylinder00
+        weight: 1
+      - path: castel/castel 1/Cylinder001
+        weight: 1
+      - path: castel/castel 1/Cylinder002
+        weight: 1
+      - path: castel/castel 1/Cylinder003
+        weight: 1
+      - path: castel/castel 1/Cylinder004
+        weight: 1
+      - path: castel/castel 1/Cylinder005
+        weight: 1
+      - path: castel/castel 1/Cylinder006
+        weight: 1
+      - path: castel/castel 1/Cylinder007
+        weight: 1
+      - path: castel/castel 1/Cylinder008
+        weight: 1
+      - path: castel/castel 1/Cylinder011
+        weight: 1
+      - path: castel/castel 1/Cylinder012
+        weight: 1
+      - path: castel/castel 1/Cylinder013
+        weight: 1
+      - path: castel/castel 1/Cylinder014
+        weight: 1
+      - path: castel/castel 1/Cylinder015
+        weight: 1
+      - path: castel/castel 1/Cylinder016
+        weight: 1
+      - path: castel/castel 1/Cylinder017
+        weight: 1
+      - path: castel/castel 1/Cylinder018
+        weight: 1
+      - path: castel/castel 1/Cylinder019
+        weight: 1
+      - path: castel/castel 1/Cylinder020
+        weight: 1
+      - path: castel/castel 1/Cylinder021
+        weight: 1
+      - path: castel/castel 1/Cylinder022
+        weight: 1
+      - path: castel/castel 1/Cylinder023
+        weight: 1
+      - path: castel/castel 1/Cylinder024
+        weight: 1
+      - path: castel/castel 1/Cylinder025
+        weight: 1
+      - path: castel/castel 1/Cylinder026
+        weight: 1
+      - path: castel/castel 1/Cylinder027
+        weight: 1
+      - path: castel/castel 1/Cylinder028
+        weight: 1
+      - path: castel/castel 1/Cylinder029
+        weight: 1
+      - path: castel/castel 1/Cylinder030
+        weight: 1
+      - path: castel/castel 1/Cylinder031
+        weight: 1
+      - path: castel/castel 1/Cylinder032
+        weight: 1
+      - path: castel/castel 1/Cylinder033
+        weight: 1
+      - path: castel/castel 1/Cylinder034
+        weight: 1
+      - path: castel/castel 1/Cylinder035
+        weight: 1
+      - path: castel/castel 1/Cylinder036
+        weight: 1
+      - path: castel/castel 1/Cylinder037
+        weight: 1
+      - path: castel/castel 1/Cylinder038
+        weight: 1
+      - path: castel/castel 1/Cylinder039
+        weight: 1
+      - path: castel/castel 1/Cylinder040
+        weight: 1
+      - path: castel/castel 1/OilTan
+        weight: 1
+      - path: castel/castel 1/OilTank001
+        weight: 1
+      - path: castel/castel 1/Stairs
+        weight: 1
+      - path: castel/castel 1/Stairs001
+        weight: 1
+      - path: castel/castel 1/Stairs002
+        weight: 1
+      - path: castel/castel 1/Stairs003
+        weight: 1
+      - path: castel/castel 1/Stairs004
+        weight: 1
+      - path: castel/castel 1/Stairs005
+        weight: 1
+      - path: castel/castel 1/Stairs006
+        weight: 1
+      - path: castel/castel 1/Stairs007
+        weight: 1
+      - path: castel/castel 1/Stairs008
+        weight: 1
+      - path: castel/castel 1/Stairs009
+        weight: 1
+      - path: castel/castel 1/Stairs010
+        weight: 1
+      - path: castel/castel 1/Stairs011
+        weight: 1
+      - path: castel/castel 1/Stairs012
+        weight: 1
+      - path: castel/castel 1/Stairs013
+        weight: 1
+      - path: castel/castel 1/Stairs014
+        weight: 1
+      - path: castel/castel 1/Stairs015
+        weight: 1
+      - path: castel/castel 1/Stairs016
+        weight: 1
+      - path: castel/castel 1/Stairs017
+        weight: 1
+      - path: castel/castel 1/Stairs018
+        weight: 1
+      - path: castel/castel 1/Stairs019
+        weight: 1
+      - path: castel/castel 1/TowerCorner
+        weight: 1
+      - path: castel/castel 1/TowerCorner001
+        weight: 1
+      - path: castel/castel 1/TowerCorner003
+        weight: 1
+      - path: castel/castel 1/TowerCorner004
+        weight: 1
+      - path: castel/castel 1/TowerCorner005
+        weight: 1
+      - path: castel/castel 1/TowerCorner006
+        weight: 1
+      - path: castel/castel 1/TowerCorner007
+        weight: 1
+      - path: castel/castelIsland
+        weight: 1
+      - path: Circle001
+        weight: 1
+      - path: Circle002
+        weight: 1
+      - path: Circle003
+        weight: 1
+      - path: Circle004
+        weight: 1
+      - path: Circle005
+        weight: 1
+      - path: Circle006
+        weight: 1
+      - path: Cloud1
+        weight: 1
+      - path: Cloud002
+        weight: 1
+      - path: cloud2
+        weight: 1
+      - path: cloud003
+        weight: 1
+      - path: Cloud003
+        weight: 1
+      - path: cloud004
+        weight: 1
+      - path: Cone001
+        weight: 1
+      - path: Cone002
+        weight: 1
+      - path: GeoSphere005
+        weight: 1
+      - path: GeoSphere006
+        weight: 1
+      - path: GeoSphere007
+        weight: 1
+      - path: GeoSphere008
+        weight: 1
+      - path: GeoSphere010
+        weight: 1
+      - path: GeoSphere011
+        weight: 1
+      - path: GeoSphere012
+        weight: 1
+      - path: GeoSphere013
+        weight: 1
+      - path: GeoSphere014
+        weight: 1
+      - path: GeoSphere016
+        weight: 1
+      - path: Line001
+        weight: 1
+      - path: Pyramid004
+        weight: 1
+      - path: Torus001
+        weight: 1
+      - path: Torus002
+        weight: 1
+      - path: Torus003
+        weight: 1
+      - path: Torus004
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
