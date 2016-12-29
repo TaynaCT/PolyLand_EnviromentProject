@@ -1,0 +1,182 @@
+fileFormatVersion: 2
+guid: 87b6feb82e5ce6a4a826f757dda30602
+timeCreated: 1483017851
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Cone289
+    100002: Cone290
+    100004: Cone291
+    100006: Cone292
+    100008: Cone293
+    100010: Cone294
+    100012: Cone295
+    100014: Cone296
+    100016: Cone297
+    100018: Cone298
+    100020: Cone299
+    100022: //RootNode
+    400000: Cone289
+    400002: Cone290
+    400004: Cone291
+    400006: Cone292
+    400008: Cone293
+    400010: Cone294
+    400012: Cone295
+    400014: Cone296
+    400016: Cone297
+    400018: Cone298
+    400020: Cone299
+    400022: //RootNode
+    2300000: Cone289
+    2300002: Cone290
+    2300004: Cone291
+    2300006: Cone292
+    2300008: Cone293
+    2300010: Cone294
+    2300012: Cone295
+    2300014: Cone296
+    2300016: Cone297
+    2300018: Cone298
+    2300020: Cone299
+    3300000: Cone289
+    3300002: Cone290
+    3300004: Cone291
+    3300006: Cone292
+    3300008: Cone293
+    3300010: Cone294
+    3300012: Cone295
+    3300014: Cone296
+    3300016: Cone297
+    3300018: Cone298
+    3300020: Cone299
+    4300000: Cone289
+    4300002: Cone290
+    4300004: Cone291
+    4300006: Cone292
+    4300008: Cone293
+    4300010: Cone294
+    4300012: Cone295
+    4300014: Cone296
+    4300016: Cone297
+    4300018: Cone298
+    4300020: Cone299
+    7400000: stairsMotion
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: stairsMotion
+      takeName: stairsMotion
+      firstFrame: 0
+      lastFrame: 200
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Cone289
+        weight: 1
+      - path: Cone290
+        weight: 1
+      - path: Cone291
+        weight: 1
+      - path: Cone292
+        weight: 1
+      - path: Cone293
+        weight: 1
+      - path: Cone294
+        weight: 1
+      - path: Cone295
+        weight: 1
+      - path: Cone296
+        weight: 1
+      - path: Cone297
+        weight: 1
+      - path: Cone298
+        weight: 1
+      - path: Cone299
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 1
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
