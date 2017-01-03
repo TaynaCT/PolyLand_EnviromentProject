@@ -3,11 +3,11 @@ using System.Collections;
 
 public class newFirstP : MonoBehaviour {
 
-    Transform playerT;
+    Transform playerT;    
 
 	// Use this for initialization
 	void Start () {
-        playerT = transform;
+        playerT = transform;        
 	}
 	
 	// Update is called once per frame
