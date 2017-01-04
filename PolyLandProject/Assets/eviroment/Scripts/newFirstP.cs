@@ -17,6 +17,13 @@ public class newFirstP : MonoBehaviour {
 
     void MovePlayer()
     {
+        float rotateH = Input.GetAxis("Mouse X");
+        float rotateV = Input.GetAxis("Mouse Y");
+
+        transform.Rotate(0, rotateH, 0);
+
+        Camera.main.transform.Rotate(-rotateV, 0, 0);
+
         float moveH = Input.GetAxis("Horizontal");
         float moveV = Input.GetAxis("Vertical");
         float moveJ = Input.GetAxis("Jump");
