@@ -3,7 +3,8 @@ using System.Collections;
 
 public class newFirstP : MonoBehaviour {
 
-    Transform playerT;    
+    Transform playerT;
+    public float mSpeed;
 
 	// Use this for initialization
 	void Start () {
@@ -21,14 +22,16 @@ public class newFirstP : MonoBehaviour {
         float rotateV = Input.GetAxis("Mouse Y");
 
         transform.Rotate(0, rotateH, 0);
-
         Camera.main.transform.Rotate(-rotateV, 0, 0);
 
+        
+        //Player M
         float moveH = Input.GetAxis("Horizontal");
         float moveV = Input.GetAxis("Vertical");
-        float moveJ = Input.GetAxis("Jump");
 
-        Vector3 movement = new Vector3(moveH, moveJ, moveV);
+        Vector3 movement = new Vector3(moveH,0, moveV);
+
+        movement = transform.rotation * movement;
 
         playerT.position += movement * Time.deltaTime;
     }
