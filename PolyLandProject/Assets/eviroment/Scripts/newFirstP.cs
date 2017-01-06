@@ -8,9 +8,11 @@ public class newFirstP : MonoBehaviour {
     public float rangeY = 75f;
 
     public float rotateV = 0;
+    public float rotateH = 0;
 
 	// Use this for initialization
 	void Start () {
+        Cursor.visible = false;
         playerT = transform;        
 	}
 	
@@ -21,9 +23,11 @@ public class newFirstP : MonoBehaviour {
 
     void MovePlayer()
     {
-        float rotateH = Input.GetAxis("Mouse X");
+        //x
+        rotateH = Input.GetAxis("Mouse X");
         transform.Rotate(0, rotateH, 0);
 
+        //y
         rotateV -= Input.GetAxis("Mouse Y");
         rotateV = Mathf.Clamp(rotateV, -rangeY, rangeY);
         Camera.main.transform.localRotation = Quaternion.Euler(rotateV,0,0);
